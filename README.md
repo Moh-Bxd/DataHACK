@@ -4,4 +4,4 @@ This project focuses on building a machine learning model to predict whether a m
 
 The goal is to optimize the model for high F1 Score while ensuring a well-documented and reproducible approach.
 
-I secured **2nd place** on the Public Leaderboard and **4th place** on the Private Leaderboard out of 24 teams. 🚀
+I secured **2nd place** on the Public Leaderboard and **4th place** on the Private Leaderboard out of 24 teams.
